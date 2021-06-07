@@ -76,4 +76,4 @@ async def tell(ctx, *, question):
 "Very doubtful."]
     await ctx.send(f'Question: {question}\nAnswer: {random.choice(responses)}')
 
-client.run('NzkwMTMxOTExODU4MTkyMzg1.X98Jrw.sOAjdZCbluwUwAGD-mGX2gsCIhE')
+client.run('your token here')
